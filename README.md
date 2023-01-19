@@ -33,8 +33,6 @@ I am a passionate software developer with a keen interest in developing applicat
 
 🚴‍♂️ In my free time, I enjoy riding my bike and exploring new trails. Not only is it a great way to stay active and healthy, but it also provides me with a sense of adventure and freedom.
 
-📚 I also enjoy reading about new technology trends and experimenting with new tools to enhance my development skills.
-
 📌 I am always looking forward to collaborate and learn from others, so feel free to reach out to me if you have any ideas or projects you would like to work on together.
 
 
