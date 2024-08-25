@@ -25,7 +25,7 @@
 ### About Me
 🙋‍♂️ Hi, I'm Anthonie!
 
-I am a passionate software developer with a keen interest in developing applications that solve real-world problems. I have a strong background in Java, HTML,CSS,JS and am always looking for new ways to improve my skills and knowledge.
+I am a passionate software developer with a keen interest in developing applications that solve real-world problems. I have a strong background in Java and am always looking for new ways to improve my skills and knowledge.
 
 🚴‍♂️ In my free time, I enjoy riding my bike and exploring new trails. Not only is it a great way to stay active and healthy, but it also provides me with a sense of adventure and freedom.
 
