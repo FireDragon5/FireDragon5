@@ -35,7 +35,7 @@ I am a passionate software developer with a keen interest in developing applicat
 ---
 
 ### Project Websites (Just a temporary domain)
-https://firedragon5.github.io/2CP/
+[2CP Website](https://plaasbaas.github.io/2CP/)
 
 ### :hammer_and_wrench: Languages and Tools :
 
